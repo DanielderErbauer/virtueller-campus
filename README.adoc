@@ -1,1 +1,5 @@
 = Virtueller Campus
+
+== Testing
+
+https://play.workadventu.re/_/global/raw.githubusercontent.com/DanielderErbauer/virtueller-campus/main/main.json[Main]
